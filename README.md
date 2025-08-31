@@ -1,67 +1,50 @@
-<pre>
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║   <b>DEIVISON VIANA ANDRADE</b>                                                         ║
-║   Arquiteto de Software | Especialista em Inteligência Artificial & Big Data         ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
- 
- C:\> SYSTEM BOOTING...
- C:\> LOADING PROFILE...
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZGRyZzFjejd3eGFqdGNnZGZwM2J4Z3JzN3dkeW9rYjZtM2o2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1JmhXJD5v2b6/giphy.gif" alt="Matrix Style GIF" width="100%">
+</p>
 
- C:\> TYPE SOBRE_MIM.TXT
- ┌──────────────────────────────────────────────────────────────────────────────────┐
- │ <b>👋 Sobre Mim</b>                                                                   │
- │                                                                                  │
- │ Arquiteto de Software e Pesquisador em IA com mais de 15 anos de experiência     │
- [cite_start]│ em TI, Big Data, IA Generativa e Desenvolvimento de Soluções Escaláveis[cite: 7]. Meu foco   │
- │ é atuar em projetos de transformação digital, automação e integração de          │
- [cite_start]│ sistemas, buscando sempre a geração de valor e inovação[cite: 8].                         │
- │                                                                                  │
- │ Também sou autor de livros técnicos sobre IA, Big Data, Python e Arquitetura    │
- [cite_start]│ de Software, publicados na Amazon[cite: 9].                                                 │
- └──────────────────────────────────────────────────────────────────────────────────┘
+<h1 align="center">DEIVISON VIANA ANDRADE</h1>
+<p align="center">
+  <b>Arquiteto de Software | Especialista em Inteligência Artificial & Big Data</b>
+</p>
 
- C:\> EXECUTE HABILIDADES.EXE
- ┌──────────────────────────────────────────────────────────────────────────────────┐
- │ <b>🛠️ Habilidades Técnicas</b>                                                        │
- │                                                                                  │
- [cite_start]│  > <b>Linguagens:</b> Python (avançado), Scala, SQL, JavaScript[cite: 31].                   │
- [cite_start]│  > <b>IA & ML:</b> LangChain, Hugging Face, TensorFlow, PyTorch, Eng. de Prompts[cite: 32].   │
- [cite_start]│  > <b>Big Data:</b> Spark, Databricks, Pandas, Hadoop, ETL[cite: 33].                        │
- [cite_start]│  > <b>Cloud:</b> AWS, Oracle Cloud, IBM Cloud, Docker, Linux[cite: 33].                      │
- [cite_start]│  > <b>BI & Visualização:</b> Power BI, Looker, Dash[cite: 33].                               │
- [cite_start]│  > <b>Outros:</b> APIs REST/GraphQL, CI/CD, Git, RPA[cite: 33].                              │
- └──────────────────────────────────────────────────────────────────────────────────┘
+<p align="center">
+  <a href="https://linkedin.com/in/deivisonviana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:consultor@deivisonviana.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="http://www.deivisonviana.com" target="_blank"><img src="https://img.shields.io/badge/Site_Pessoal-333333?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Site Pessoal"></a>
+  <a href="http://www.deivisonviana.com/livros" target="_blank"><img src="https://img.shields.io/badge/Meus_Livros-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Livros na Amazon"></a>
+</p>
 
- C:\> DIR EXPERIENCIA.LOG
- ┌──────────────────────────────────────────────────────────────────────────────────┐
- │ <b>🚀 Experiência Profissional</b>                                                   │
- │                                                                                  │
- [cite_start]│  <b>Arquiteto de Software - Incaper (Jun/2023 - Fev/2025)</b> [cite: 22]                       │
- [cite_start]│  - Desenvolvimento de soluções web e pipelines de dados para agricultura[cite: 23].       │
- [cite_start]│  - Integração com APIs, automações em Python e processamento de dados[cite: 24].       │
- │                                                                                  │
- [cite_start]│  <b>Pesquisador - UFES (CPID2.2) (Abr/2023 - Jun/2025)</b> [cite: 25]                            │
- [cite_start]│  - Projetos de mudanças climáticas com análise de dados em Python e Power BI[cite: 26].   │
- [cite_start]│  - Integração de dados com SQL, ETL e visualização estratégica[cite: 27].               │
- │                                                                                  │
- [cite_start]│  <b>Desenvolvedor Web & Full Stack - Freelancer (Jan/2013 - Atual)</b> [cite: 28]             │
- [cite_start]│  - Criação de sistemas escaláveis e websites[cite: 29]. [cite_start]Stack: WordPress, Laravel... [cite: 29] │
- └──────────────────────────────────────────────────────────────────────────────────┘
+<br>
 
- C:\> LOAD FORMACAO.DAT
- ┌──────────────────────────────────────────────────────────────────────────────────┐
- │ <b>🎓 Formação Acadêmica</b>                                                          │
- │                                                                                  │
- [cite_start]│  > Pós-graduação em Ciência de Dados e Big Data Analytics - Estácio (2024)[cite: 11].       │
- [cite_start]│  > Pós-graduação em Big Data Analytics e BI - Estácio (2023)[cite: 11].                   │
- │  > Bacharelado em Gestão de T.I. - [cite_start]Estácio (2022)[cite: 11].                               │
- └──────────────────────────────────────────────────────────────────────────────────┘
- 
- C:\> RENDER CERTS_VIEWER.EXE
- ┌──────────────────────────────────────────────────────────────────────────────────┐
- │ <b>🏆 Certificações Relevantes</b>                                                    │
- │   (Visualizador de imagens ativado)                                              │
-</pre>
+### 👾 Sobre Mim
+Arquiteto de Software e Pesquisador em Inteligência Artificial com mais de 15 anos de experiência em TI, Big Data, IA Generativa e Desenvolvimento de Soluções Escaláveis. Meu foco é atuar em projetos estratégicos de transformação digital, automação e integração de sistemas, sempre buscando a geração de valor e inovação.
+
+Também sou autor de livros técnicos sobre IA, Big Data, Python e Arquitetura de Software, publicados na Amazon.
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivisonviana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivisonviana&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+### 🛠️ Habilidades Técnicas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,scala,js,aws,oracle,docker,linux,tensorflow,pytorch,spark,hadoop,git,graphql,powershell&perline=7" />
+  </a>
+</p>
+
+| Categoria             | Tecnologias                                                              |
+|-----------------------|--------------------------------------------------------------------------|
+| **Linguagens** | Python (avançado), Scala, SQL, JavaScript                                |
+| **IA & ML** | LangChain, Hugging Face, TensorFlow, PyTorch, Engenharia de Prompts      |
+| **Big Data** | Spark, Databricks, Pandas, Hadoop, ETL                                   |
+| **Cloud & DevOps** | AWS, Oracle Cloud, IBM Cloud, Docker, Linux, CI/CD, Git                  |
+| **BI & Visualização** | Power BI, Looker, Dash                                                   |
+
+<br>
+
+### 🏆 Certificações Relevantes
 
 <table>
   <tr>
@@ -99,20 +82,3 @@
     </td>
   </tr>
 </table>
-
-<pre>
- │                                                                                  │
- [cite_start]│ > IBM Generative Al Applications Specialist (2025) [cite: 13]                              │
- [cite_start]│ > Building Generative Al-Powered Applications with Python - IBM (2025) [cite: 14]          │
- [cite_start]│ > Deep Learning & Neural Networks with Keras - IBM (2025) [cite: 15]                       │
- [cite_start]│ > Generative Al: Prompt Engineering Basics - IBM (2025) [cite: 16]                         │
- [cite_start]│ > Oracle Cloud Al Foundations Associate - Oracle (2025) [cite: 17]                         │
- [cite_start]│ > Oracle Data Platform Certified Foundations Associate - Oracle (2025) [cite: 18]          │
- [cite_start]│ > Fundamentos de Infraestrutura e Operações de IA - NVIDIA (2024) [cite: 19]               │
- [cite_start]│ > Google Data Analytics - Coursera (2023) [cite: 20]                                       │
- └──────────────────────────────────────────────────────────────────────────────────┘
-
- C:\> SHUTDOWN
-
- SESSION TERMINATED.
-</pre>
